@@ -14,4 +14,4 @@ __Matt Boren__ - added things like Confirmation and ShouldProcess (-WhatIf) supp
 
 __Luc Dekens__ - http://www.lucd.info/2012/04/15/test-if-the-datastore-can-be-unmounted/
 
-__Kevin Kirkpatrick__ - compiled community functions and bundled into module. Renamed some of the functions so that they began with approved verbs. Individual contributions noted via comment based help and/or in-line code comments, within each function. [https://github.com/vScripter | Twitter: @vScripter]
+__Kevin Kirkpatrick__ - compiled community functions and bundled into module. Renamed some of the functions so that they begin with approved verbs. Individual contributions noted via comment based help and/or in-line code comments, within each function. [https://github.com/vScripter | Twitter: @vScripter]
