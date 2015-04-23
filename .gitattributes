@@ -5,13 +5,13 @@
 *.cs     diff=csharp
 
 # Custom for PowerShell and PowerShell Studio
-*.ps1 text eol=crlf
-*.psm1 text eol=crlf
-*.psd1 text eol=crlf
-*.psproj text eol=crlf
-*.psf text eol=crlf
-*.pss text eol=crlf
-*.psbuild text eol=crlf
+*.ps1 text eol=cr
+*.psm1 text eol=cr
+*.psd1 text eol=cr
+*.psproj text eol=cr
+*.psf text eol=cr
+*.pss text eol=cr
+*.psbuild text eol=cr
 
 # Standard to msysgit
 *.doc	 diff=astextplain
